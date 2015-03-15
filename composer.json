@@ -1,0 +1,16 @@
+{
+  "name": "vundo/input",
+  "description": "Simple input class",
+  "type": "library",
+  "keywords": ["input", "get", "post"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mirko Kroese",
+      "email": "mirko@vundo.nl"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"Vundo\\Input\\": "Input"}
+  }
+}
